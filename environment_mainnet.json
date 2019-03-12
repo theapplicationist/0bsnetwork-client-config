@@ -3,7 +3,7 @@
   "servers": {
     "nodeUrl": "https://nodes.0bsnetwork.com",
     "dataUrl": "https://api.0bsnetwork.com",
-    "spamUrl": "https://client.0bsnetwork.com/spam.csv",
+    "spamUrl": "https://raw.githubusercontent.com/0bsnetwork/0bsnetwork-client-config/master/spam.csv",
     "matcherUrl": "https://matcher.0bsnetwork.com"
   },
   "scheme": "Z",
