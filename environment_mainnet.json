@@ -19,6 +19,15 @@
       "wavesId": "ZBS",
       "gatewayId": "ZBS",
       "addressRegEx": ""
+    },
+    {
+      "assetId": "FQqPrEgab8eQ8uAgyAxuSRZVdmLMpJZnotiw2cNBgXNU",
+      "displayName": "Euro",
+      "isFiat": true,
+      "isGateway" : false,
+      "wavesId" : "ZEUR",
+      "gatewayId": "EUR",
+      "addressRegEx" : ""
     }
   ]
 }
