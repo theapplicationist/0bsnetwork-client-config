@@ -1,12 +1,12 @@
 {
-  "smart_asset_extra_fee": 400000,
-  "smart_account_extra_fee": 400000,
+  "smart_asset_extra_fee": 1000000,
+  "smart_account_extra_fee": 1000000,
   "calculate_fee_rules": {
     "default": {
       "add_smart_asset_fee": true,
       "add_smart_account_fee": true,
-      "min_price_step": 100000,
-      "fee": 100000
+      "min_price_step": 1000000,
+      "fee": 5000000
     },
     "3": {
       "fee": 50000000000
