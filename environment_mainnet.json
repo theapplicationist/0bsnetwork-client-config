@@ -1,10 +1,10 @@
 {
   "name": "Mainnet",
   "servers": {
-    "nodeUrl": "https://nodes.0bsnetwork.com",
-    "dataUrl": "https://api.0bsnetwork.com",
+    "nodeUrl": "https://nodes.olyx.exchange",
+    "dataUrl": "https://api.olyx.exchange",
     "spamUrl": "https://raw.githubusercontent.com/0bsnetwork/0bsnetwork-client-config/master/spam.csv",
-    "matcherUrl": "https://matcher.0bsnetwork.com"
+    "matcherUrl": "https://matcher.olyx.exchange"
   },
   "scheme": "Z",
   "generalAssetIds": [
@@ -12,16 +12,16 @@
       "iconUrls": {
         "default": "https://raw.githubusercontent.com/0bsnetwork/0bsnetwork-client-config/master/icons/logo_zbs_48.png"
       },
-      "assetId": "ZBS",
-      "displayName": "Zbs",
+      "assetId": "ART",
+      "displayName": "ArtCoin",
       "isFiat": false,
       "isGateway": false,
-      "wavesId": "ZBS",
-      "gatewayId": "ZBS",
+      "wavesId": "ART",
+      "gatewayId": "ART",
       "addressRegEx": ""
     },
     {
-      "assetId": "FQqPrEgab8eQ8uAgyAxuSRZVdmLMpJZnotiw2cNBgXNU",
+      "assetId": "EyAtXVDDNEge14mM8QMFQ9Uhz7gNufEKuzVEZo2Q6M98",
       "displayName": "Euro",
       "isFiat": true,
       "isGateway" : false,
