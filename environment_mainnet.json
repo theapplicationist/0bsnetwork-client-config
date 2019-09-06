@@ -6,7 +6,7 @@
     "spamUrl": "https://raw.githubusercontent.com/0bsnetwork/0bsnetwork-client-config/master/spam.csv",
     "matcherUrl": "https://matcher.olyx.exchange"
   },
-  "scheme": "Z",
+  "scheme": "O",
   "generalAssetIds": [
     {
       "iconUrls": {
