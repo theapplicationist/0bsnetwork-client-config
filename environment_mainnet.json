@@ -21,12 +21,12 @@
       "addressRegEx": ""
     },
     {
-      "assetId": "EyAtXVDDNEge14mM8QMFQ9Uhz7gNufEKuzVEZo2Q6M98",
-      "displayName": "Euro",
+      "assetId": "8CnzS5aHKtWDoTrvesK6vDGohpGqyP1N12TMkY6n9LVU",
+      "displayName": "Modern Alchemist",
       "isFiat": true,
       "isGateway" : false,
-      "wavesId" : "ZEUR",
-      "gatewayId": "EUR",
+      "wavesId" : "ModernAlchemist",
+      "gatewayId": "ModernAlchemist",
       "addressRegEx" : ""
     }
   ]
