@@ -17,7 +17,7 @@
     },
     "7": {
       "add_smart_account_fee": false,
-      "fee": 200000000000
+      "fee": 200000000
     },
     "11": {
       "price_per_transfer": 50000
